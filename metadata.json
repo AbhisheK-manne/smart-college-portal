@@ -1,0 +1,10 @@
+{
+  "name": "Teegala Krishna Reddy Engineering College - Student & Staff Portal",
+  "description": "Official campus home portal for TKREC students, faculty, and staff featuring Student Login, Staff Login, credential directory, RFID scanner attendance, and academic services.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
